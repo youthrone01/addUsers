@@ -1,0 +1,46 @@
+.container{
+    margin: 0 auto;
+    width: 970px;
+    background-color: grey;
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+form{
+    height: 400px;
+    width: 400px;
+    margin-top: -25px;
+    border-top: 2px solid silver;
+}
+
+input{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 80px;
+}
+
+label{
+    display:inline-block;
+}
+
+table{
+    border: 1px solid black;
+    
+}
+
+#submit{
+    background-color: silver;
+    height: 30px;
+    width: 100px;
+    margin-left: 100px;
+    color: white
+}
+
+th, td{
+    padding-right:40px; 
+}
+
+.indent{
+    margin-left: 21px;
+}
